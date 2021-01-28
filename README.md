@@ -1,4 +1,4 @@
-![Katuriki](https://telegra.ph/file/3dfe9e8f3705338024af0.jpg).
+![Katuriki](https://telegra.ph/file/3dfe9e8f3705338024af0.jpg)
 <h1 align="center">Heya 👋, I'm 𝘼𝙗𝙝𝙞𝙡𝙖𝙨𝙝</h1>
 <h3 align="center">A simple Wanderer....🙃</h3>
 
