@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katuriki&label=Profile%20views&color=0e75b6&style=flat" alt="katuriki" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://telegra.ph/file/cd4af731ecbc4fcc73e58.mp4">
+![gif](https://telegra.ph/file/cd4af731ecbc4fcc73e58.mp4)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katuriki" alt="katuriki" /></a> </p>
