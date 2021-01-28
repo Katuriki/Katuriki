@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Charted Accountancy**
 
-- 👨‍💻 All of my projects are available at [Github.com/Katuriki](Github.com/Katuriki)
+- 👨‍💻 All of my projects are available at [Github.com/Katuriki](https://github.com/Katuriki?tab=repositories)
 
 - 💬 Ask me about **Nothing...**
 
