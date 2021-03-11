@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katuriki" alt="katuriki" /></a> </p>
 
-- 🔭 I’m currently working on [Telegeek Manager](github.com/Katuriki/TelegeekManager)
+- 🔭 I’m currently working on [Link💫](github.com/Katuriki/Link)
 
 - 🌱 I’m currently learning **Charted Accountancy**
 
