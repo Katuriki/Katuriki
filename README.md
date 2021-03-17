@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katuriki&" alt="katuriki" /></p>
 
-![Kanao](https://telegra.ph/file/08dc9ed98937e01b9b59e.jpg)
+![Akira](https://telegra.ph/file/bd93e1275a88fc22d1a3f.gif)
