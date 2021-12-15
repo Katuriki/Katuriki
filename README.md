@@ -1,6 +1,6 @@
 ![Katuriki](https://telegra.ph/file/8c97a80deae1be2aeda9d.gif)
 <h1 align="center">Heya, I'm 𝘼𝙗𝙝𝙞𝙡𝙖𝙨𝙝 <img src="./Extras/wave.gif" 
-width="50px"></h1>
+width="30px"></h1>
 <h3 align="center">A simple Wanderer....🙃</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katuriki&label=Profile%20views&color=0e75b6&style=flat" alt="katuriki" /> </p>
